@@ -1,0 +1,3 @@
+g++ first.cpp -o first.exe; .\first.exe
+ctr+c : to stop infinite loop
+ctr + ` for opening and closing terminal faster
